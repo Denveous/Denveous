@@ -11,7 +11,15 @@
   </div>
 </div><br>
 <p align="center">
-  <a href="https://www.youtube.com/@Denveous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Denveous" height="30" width="40" /></a>
-  <a href="https://discord.moreno.land" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@Denveous" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Denveous" height="30" width="40" />
+  </a>
+  <a href="https://discord.moreno.land" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="48" />
+  </a>
   &nbsp;&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=Denveous&label=Visitors&color=32a852&style=classic" alt="Profile views counter" height="18" width="70" />
+  &nbsp;&nbsp;<img align="center" src="https://img.shields.io/endpoint?url=https://moreno.land/gitproject.json" alt="Currently Coding" height="18" width="auto" />
+  &nbsp;&nbsp;<img align="center" src="https://img.shields.io/endpoint?url=https://moreno.land/gitplay.json" alt="Currently Playing" height="18" width="auto" />
 </p>
+
+
