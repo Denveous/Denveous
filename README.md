@@ -9,8 +9,7 @@
 </div><br>
 
   ![Visitors](https://komarev.com/ghpvc/?username=Denveous&label=Visitors&color=32a852&style=classic)
-  &nbsp;&nbsp;![Currently Coding](https://img.shields.io/endpoint?url=https://moreno.land/gitproject.json)
-  &nbsp;&nbsp;![Currently Playing](https://img.shields.io/endpoint?url=https://moreno.land/gitplay.json)
+
 
 
 
